@@ -1,0 +1,11 @@
+{
+  "LOCAL": "QA",
+  "DEV": {
+    "Name": "DEV",
+    "BaseApiUrl": ""
+  },
+  "QA": {
+    "Name": "QA",
+    "BaseApiUrl": "https://test.lan"
+  }
+}
